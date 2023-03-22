@@ -1,1 +1,1 @@
-# PixelBoars---Ordinal-Project
+# PixelBoars
